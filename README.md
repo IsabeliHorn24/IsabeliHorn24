@@ -3,7 +3,7 @@
 meu nome é Isabeli Horn
 
 - estou estudando no [Alura](https://www.alura.com.br)
-- estou no 2 ano do ensino médio, na esola Professor Angelo Martino.
+- estou no 2 ano do ensino médio, na escola Professor Angelo Martino.
 - utilizo este espaço para armazenar meus projetos realizados na aula.
 
 ## Contato: 📧
